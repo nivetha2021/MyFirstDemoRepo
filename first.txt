@@ -1,5 +1,5 @@
-first git demo....!
-<What I learnt in a day>
+
+<What I learnt in first day>
 git init
 git add
 git commit -m
@@ -8,3 +8,6 @@ git remote add origin <link>..
 push the file local to remote
 git push -u origin master
 master - ennoda local<idea projects>
+
+after push
+now I'm gonna edit...

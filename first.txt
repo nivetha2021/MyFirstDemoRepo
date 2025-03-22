@@ -1,1 +1,10 @@
 first git demo....!
+<What I learnt in a day>
+git init
+git add
+git commit -m
+git ku remote origin link ah sollanum
+git remote add origin <link>..
+push the file local to remote
+git push -u origin master
+master - ennoda local<idea projects>
